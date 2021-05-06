@@ -1,9 +1,10 @@
+
+
 body{
     background-color: #3772A9;
     font-family: 'Staatliches', cursive;
     /* margin: 0px; */
-    margin-top: 60px;
-
+    margin-top: 60px;  
 }
 /* hr{
     border: dotted #f4d160 0.8rem;
@@ -45,22 +46,22 @@ body{
     position: absolute;
     margin-right: auto;
     margin-top: auto;
-    margin-left: 8rem;
+    margin-left: 6%;
     margin-bottom: auto;
     width: 10.65%;
 }
 .bottimg2{
     position: absolute;
     margin-right: auto;
-    margin-top: 21rem;
-    margin-left: 20rem;
+    margin-top: 15%;
+    margin-left: 20%;
     margin-bottom: auto;
     width: 10.65%;
 }
 .topimg{
     position: absolute;
-    margin-left: -40.5rem;
-    margin-top: 37.5rem;
+    margin-left: -35%;
+    margin-top: 30%;
     margin-right: auto;
     margin-bottom: auto;
     width: 10.65%;
@@ -68,8 +69,8 @@ body{
 
 .topimg2{
     position: absolute;
-    margin-left: -28.2rem;
-    margin-top: 6.25rem;
+    margin-left: -22%;
+    margin-top: 7%;
     margin-right: auto;
     margin-bottom: auto;
     width: 6.66%;
@@ -86,7 +87,7 @@ body{
     margin: auto auto auto auto;
     padding-top: 6.3rem; padding-bottom: 1.25rem;
     font-family: 'East Sea Dokdo', sans-serif;
-    font-size: 510%;
+    font-size: 350%;
 }
 .title2{
     font-family: 'East Sea Dokdo', sans-serif;
@@ -162,7 +163,7 @@ body{
     margin-bottom: 3rem;
 }
 .pas{
-    width: 24%;
+    width: 40%;
     display: block;
     margin-left: auto;
     margin-right: auto;
